@@ -1,19 +1,1 @@
-[submodule "hysteria"]
-	path = hysteria
-	url = https://github.com/apernet/hysteria.git
 
-[submodule "AndroidLibXrayLite"]
-	path = AndroidLibXrayLite
-	url = https://github.com/2dust/AndroidLibXrayLite.git
-
-[submodule "badvpn"]
-	path = badvpn
-	url = https://github.com/XTLS/badvpn.git
-
-[submodule "libancillary"]
-	path = libancillary
-	url = https://github.com/shadowsocks/libancillary.git
-
-[submodule "HoloEverywhere"]
-	path = HoloEverywhere
-	url = https://github.com/Prototik/HoloEverywhere.git
